@@ -1,0 +1,19 @@
+.tombol{
+    width: 140px; height: 40px; border-radius: 10px; padding: 5px; 
+}
+.tombol:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+}
+
+.struk{
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 20px;
+
+}
+.gelo{
+    text-align: center;
+}
